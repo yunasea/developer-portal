@@ -22,7 +22,7 @@ Ready for your thoughts, comments, builds, additions!
 
 **Topics covered in the Portal**
 
-We’ve been helped tremendously by various people in the Cardano community. Their builds, feedback, comments and in some cases complete articles have been immensely helpful. Our gratitude is great, as is our respect for what you keep bringing to the community! 
+We’ve been helped tremendously by various peopl in the Cardano community. Their builds, feedback, comments and in some cases complete articles have been immensely helpful. Our gratitude is great, as is our respect for what you keep bringing to the community! 
 
 We’re confident the portal now has a very solid basis, covering everything currently possible on the Cardano mainnet. Whether you want to implement transaction metadata, mint native tokens, integrate Cardano, operate a stake pool or get your project funded: there’s something for pretty much everyone. 
 
